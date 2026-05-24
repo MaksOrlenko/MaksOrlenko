@@ -28,7 +28,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 📫 How to reach me:  
 
-[LinkedIn](https://www.linkedin.com/in/maksym-orlenko) | [Telegram]([https://t.me/yourusername](https://t.me/Orl_Maks)) | [Email](orlenko.maks@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/maksym-orlenko) | [Telegram](https://t.me/Orl_Maks) | [Email](orlenko.maks@icloud.com)
 
 
 Статистика GitHub (GitHub Readme Stats)
