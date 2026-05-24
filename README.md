@@ -21,15 +21,14 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 
 📫 How to reach me:  
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maksym-orlenko)) | [Telegram]([https://t.me/yourusername](https://t.me/Orl_Maks)) | [Email](orlenko.maks@icloud.com)
 
 
 Статистика GitHub (GitHub Readme Stats)
