@@ -16,10 +16,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 📫 How to reach me:  
 
