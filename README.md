@@ -1,17 +1,12 @@
-Привітання
-
 👋 Hi, I'm Maksym Orlenko
 
- Junior Fullstack Developer | React | Node.js  
+Junior Fullstack Developer | React | Node.js  
 
-Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
-
+I am a Junior Fullstack Developer focused on building clean, responsive, and user-friendly web applications using JavaScript, TypeScript, React, Next.js, Node.js, REST API, and MongoDB.Before moving into IT, I gained over 6 years of experience in logistics, customer service, and team coordination. This experience helped me develop strong responsibility, communication, problem-solving skills, and the ability to work effectively in a team.I am continuously improving my technical skills and growing as a developer through practical projects, teamwork, and real-world problem solving.
 
 🧰 Tech Stack  
 
 JavaScript | TypeScript | Node.js | React | Next.js
-
-
 
 💻Featured Projects  
 
@@ -21,7 +16,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-English-Intermediate-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
